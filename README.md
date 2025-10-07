@@ -1,0 +1,1 @@
+# smart_file_preview_for_win10
